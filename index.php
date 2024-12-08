@@ -286,7 +286,7 @@
 
 $(document).ready(function(){
 
-Swal.fire({ title: "Warning!", text: "Join our Telegram t.me/ERR0R_CHECKER", icon: "warning", confirmButtonText: "OK", buttonsStyling: false, confirmButtonClass: 'btn btn-primary'});
+Swal.fire({ title: "Warning!", text: "Join our Telegram t.me/fn_network_back", icon: "warning", confirmButtonText: "OK", buttonsStyling: false, confirmButtonClass: 'btn btn-primary'});
   
 $('.show-charge').click(function(){
 var type = $('.show-charge').attr('type');
